@@ -1,0 +1,402 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 597208,
+      "original_language": "en",
+      "original_title": "Nightmare Alley",
+      "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.",
+      "popularity": 1006.195,
+      "poster_path": "/680klE0dIreQQOyWKFgNnCAJtws.jpg",
+      "release_date": "2021-12-02",
+      "title": "Nightmare Alley",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1535
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 801071,
+      "original_language": "en",
+      "original_title": "The Jack in the Box: Awakening",
+      "overview": "When a vintage Jack-in-the-box is opened by a dying woman, she enters into a deal with the demon within that would see her illness cured in return for helping it claim six innocent victims.",
+      "popularity": 1001.997,
+      "poster_path": "/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+      "release_date": "2022-02-24",
+      "title": "The Jack in the Box: Awakening",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zplzc6jxO3SK7Pa4yxVoRY5VflT.jpg",
+      "genre_ids": [
+        14,
+        35,
+        12
+      ],
+      "id": 425909,
+      "original_language": "en",
+      "original_title": "Ghostbusters: Afterlife",
+      "overview": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+      "popularity": 948.923,
+      "poster_path": "/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+      "release_date": "2021-11-11",
+      "title": "Ghostbusters: Afterlife",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 2560
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tj4lzGgHrfjnjVqAKkLIjFqPSyO.jpg",
+      "genre_ids": [
+        28,
+        878,
+        14
+      ],
+      "id": 526896,
+      "original_language": "en",
+      "original_title": "Morbius",
+      "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+      "popularity": 936.307,
+      "poster_path": "/7gmOjg7lQXGLW8wX31ry1IdIY07.jpg",
+      "release_date": "2022-03-30",
+      "title": "Morbius",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 513
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 566525,
+      "original_language": "en",
+      "original_title": "Shang-Chi and the Legend of the Ten Rings",
+      "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+      "popularity": 856.95,
+      "poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "release_date": "2021-09-01",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 6260
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 646385,
+      "original_language": "en",
+      "original_title": "Scream",
+      "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
+      "popularity": 825.382,
+      "poster_path": "/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+      "release_date": "2022-01-12",
+      "title": "Scream",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1197
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o76ZDm8PS9791XiuieNB93UZcRV.jpg",
+      "genre_ids": [
+        27,
+        28,
+        878
+      ],
+      "id": 460458,
+      "original_language": "en",
+      "original_title": "Resident Evil: Welcome to Raccoon City",
+      "overview": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
+      "popularity": 823.989,
+      "poster_path": "/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",
+      "release_date": "2021-11-24",
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 1490
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 624860,
+      "original_language": "en",
+      "original_title": "The Matrix Resurrections",
+      "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+      "popularity": 803.646,
+      "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "release_date": "2021-12-16",
+      "title": "The Matrix Resurrections",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 3549
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hw7foD5in5YCs7qY3Pap9pdc1Vc.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        10749
+      ],
+      "id": 752623,
+      "original_language": "en",
+      "original_title": "The Lost City",
+      "overview": "Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.",
+      "popularity": 801.331,
+      "poster_path": "/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
+      "release_date": "2022-03-24",
+      "title": "The Lost City",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f2J8DpT5bqV0AiI9VVcfiuqKo5l.jpg",
+      "genre_ids": [
+        35,
+        99
+      ],
+      "id": 656663,
+      "original_language": "en",
+      "original_title": "Jackass Forever",
+      "overview": "Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.",
+      "popularity": 793.852,
+      "poster_path": "/ugIdyvtAzHWOguD91UjHKoAvfum.jpg",
+      "release_date": "2022-02-01",
+      "title": "Jackass Forever",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 278
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yKnjIWNIVECfMoKy1ayl68vX6qj.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 871799,
+      "original_language": "en",
+      "original_title": "Pursuit",
+      "overview": "Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to find his wife, who has been kidnapped by a drug cartel. When Calloway escapes police custody, Breslin joins forces with a no-nonsense female cop to reclaim his prisoner. But is Calloway’s crime-boss father somehow involved in this explosive situation?",
+      "popularity": 767.922,
+      "poster_path": "/oUU6blOmIu155vfIgzML3ZSsDrB.jpg",
+      "release_date": "2022-02-18",
+      "title": "Pursuit",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kQM7o3NIkruIZLoQ9E2XzZQ8Ujl.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 783461,
+      "original_language": "hi",
+      "original_title": "लूप लपेटा",
+      "overview": "When her boyfriend loses a mobster's cash, Savi races against the clock to save the day — if only she can break out of a curious cycle of dead ends.",
+      "popularity": 749.334,
+      "poster_path": "/onGdT8sYi89drvSJyEJnft97rOq.jpg",
+      "release_date": "2022-02-04",
+      "title": "Looop Lapeta",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rf1hhEOEV4a7sP74Wlp9Ler4aUJ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 910596,
+      "original_language": "en",
+      "original_title": "Run Gun",
+      "overview": "After leaving a life of crime and violence, Ray is a reformed good guy, enjoying a quiet family life in the ‘burbs. But when his past is discovered, Ray is blackmailed into one last job to collect a mysterious package. After a deadly double-cross, he finds himself wounded and on the run from ruthless assassins who will stop at nothing to get what he has. Now, with the lives of his loved ones hanging in the balance and danger at every turn, Ray’s only hope is to draw upon his violent past to survive.",
+      "popularity": 737.616,
+      "poster_path": "/4qlq5gPzWDZRfXJC9qgv9SfTThr.jpg",
+      "release_date": "2022-01-11",
+      "title": "Run Gun",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751
+      ],
+      "id": 459151,
+      "original_language": "en",
+      "original_title": "The Boss Baby: Family Business",
+      "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
+      "popularity": 734.105,
+      "poster_path": "/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+      "release_date": "2021-07-01",
+      "title": "The Boss Baby: Family Business",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 1875
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        53
+      ],
+      "id": 639933,
+      "original_language": "en",
+      "original_title": "The Northman",
+      "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+      "popularity": 719.729,
+      "poster_path": "/uTu1bsfDWtV1EA4DR43HdFtNQbd.jpg",
+      "release_date": "2022-04-07",
+      "title": "The Northman",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 181
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oojlC3gH0bxD7hsnQa3kE9WbEBy.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 765119,
+      "original_language": "en",
+      "original_title": "The Bubble",
+      "overview": "Sneaking out. Hooking up. Melting down. The cast and crew of a blockbuster action franchise attempt to shoot a sequel while quarantining at a posh hotel.",
+      "popularity": 716.134,
+      "poster_path": "/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+      "release_date": "2022-03-25",
+      "title": "The Bubble",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 171
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Wlwnhn5sXUIwlxpJgWszT622PS.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        35,
+        14
+      ],
+      "id": 585245,
+      "original_language": "en",
+      "original_title": "Clifford the Big Red Dog",
+      "overview": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
+      "popularity": 703.071,
+      "poster_path": "/oifhfVhUcuDjE61V5bS5dfShQrm.jpg",
+      "release_date": "2021-11-10",
+      "title": "Clifford the Big Red Dog",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1210
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 632727,
+      "original_language": "en",
+      "original_title": "Texas Chainsaw Massacre",
+      "overview": "In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.",
+      "popularity": 700.052,
+      "poster_path": "/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg",
+      "release_date": "2022-02-18",
+      "title": "Texas Chainsaw Massacre",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 704
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 522016,
+      "original_language": "en",
+      "original_title": "The 355",
+      "overview": "A group of top female agents from American, British, Chinese, Columbian and German  government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.",
+      "popularity": 689.893,
+      "poster_path": "/zxizwEPE8jhpbMgrFbwCztgvh2m.jpg",
+      "release_date": "2022-01-05",
+      "title": "The 355",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 413
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vkjsoMF86dJIv6Sgtd4CcuR8kzh.jpg",
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 843241,
+      "original_language": "ja",
+      "original_title": "劇場版 七つの大罪 光に呪われし者たち",
+      "overview": "With the help of the \"Dragon Sin of Wrath\" Meliodas and the worst rebels in history, the Seven Deadly Sins, the \"Holy War\", in which four races, including Humans, Goddesses, Fairies and Giants fought against the Demons, is finally over. At the cost of the \"Lion Sin of Pride\" Escanor's life, the Demon King was defeated and the world regained peace. After that, each of the Sins take their own path.",
+      "popularity": 683.507,
+      "poster_path": "/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
+      "release_date": "2021-07-02",
+      "title": "The Seven Deadly Sins: Cursed by Light",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 333
+    }
+  ],
+  "total_pages": 33289,
+  "total_results": 665770
+}

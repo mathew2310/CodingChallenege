@@ -17,7 +17,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        setUpUI()
         setUpBinding()
+    }
+    
+    private func setUpUI() {
+        title = NSLocalizedString("movies_title_key", comment: "")
     }
     
     private func setUpBinding() {
