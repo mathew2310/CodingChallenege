@@ -8,7 +8,7 @@
 import Foundation
 @testable import MathewChallenge
 
-class FakeNetworkManager: NetworkProtocol {
+class MockServiceManager: ServiceProtocol {
     
     var data: Data?
     var error: Error?

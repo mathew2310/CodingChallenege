@@ -12,7 +12,7 @@ protocol NetworkProtocol {
     func getData(from url: String, completionHandler: @escaping (Result<Data, Error>) -> ())
 }
 
-class NetworkManager: NetworkProtocol {
+class ServiceManager: NetworkProtocol {
     
     func getModel<T: Decodable>(_ model: T.Type, from url: String, completionHandler: @escaping (Result<T, Error>) -> ()) {
         guard let url = URL(string: url) else {
