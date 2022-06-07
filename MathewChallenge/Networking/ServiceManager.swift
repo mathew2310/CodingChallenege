@@ -7,12 +7,12 @@
 
 import Foundation
 
-protocol NetworkProtocol {
+protocol ServiceProtocol {
     func getModel<T: Decodable>(_ model: T.Type, from url: String, completionHandler: @escaping (Result<T, Error>) -> ())
     func getData(from url: String, completionHandler: @escaping (Result<Data, Error>) -> ())
 }
 
-class ServiceManager: NetworkProtocol {
+class ServiceManager: ServiceProtocol {
     
     func getModel<T: Decodable>(_ model: T.Type, from url: String, completionHandler: @escaping (Result<T, Error>) -> ()) {
         guard let url = URL(string: url) else {

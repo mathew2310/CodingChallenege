@@ -19,3 +19,4 @@ struct Movie: Decodable {
         case posterPath = "poster_path"
     }
 }
+

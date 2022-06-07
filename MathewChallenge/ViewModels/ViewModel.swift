@@ -12,15 +12,18 @@ class ViewModel {
     @Published private(set) var movies: [Movie] = []
     @Published private(set) var imgCache: [String: Data] = [:]
     private var moviesDataSource: [Movie] = []
-    private let networkManager: NetworkProtocol
+    private let serviceManager: ServiceProtocol
     private var currentPage = 1
     private var isLoading = false
     private var searchText: String?
     
-    init(networkManager: NetworkProtocol) {
-        self.networkManager = networkManager
+    init(serviceManager: ServiceProtocol) {
+        self.serviceManager = serviceManager
     }
     
+    var movieCount: Int{
+        return moviesDataSource.count
+    }
     func loadPopularMovies() {
         guard !isLoading else { return }
         
@@ -30,7 +33,7 @@ class ViewModel {
         // adding page to url
         let pageParameter = "&page=\(currentPage)"
         let url = "\(NetworkURLs.popularMovies)\(pageParameter)"
-        networkManager.getModel(MoviesPopularResponse.self, from: url) { [weak self] result in
+        serviceManager.getModel(MoviesPopularResponse.self, from: url) { [weak self] result in
             switch result {
             case .success(let result):
                 self?.moviesDataSource.append(contentsOf: result.results)
@@ -70,7 +73,7 @@ class ViewModel {
         }
         
         // download image
-        networkManager.getData(from: url) { [weak self] result in
+        serviceManager.getData(from: url) { [weak self] result in
             switch result {
             case .success(let data):
                 self?.imgCache[url] = data

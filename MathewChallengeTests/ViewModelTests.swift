@@ -13,11 +13,13 @@ class ViewModelTests: XCTestCase {
     
     private var subscribers = Set<AnyCancellable>()
     var viewModel: ViewModel!
-    var fakeNetworkManager: FakeNetworkManager!
+    var mockServiceManager: MockServiceManager!
+    
+    
 
     override func setUpWithError() throws {
-        fakeNetworkManager = FakeNetworkManager()
-        viewModel = ViewModel(networkManager: fakeNetworkManager)
+        mockServiceManager = MockServiceManager()
+        viewModel = ViewModel(serviceManager: mockServiceManager)
     }
 
     override func tearDownWithError() throws {
@@ -26,8 +28,8 @@ class ViewModelTests: XCTestCase {
 
     func testLoadPopularMovies() throws {
         // Given
-        resetFakeNetworkManager()
-        fakeNetworkManager.data = try getData(json: "movies")
+        resetMockServiceManager()
+        mockServiceManager.data = try getData(json: "movies")
         let expectation = expectation(description: "waiting for response")
         
         // When
@@ -46,12 +48,13 @@ class ViewModelTests: XCTestCase {
         waitForExpectations(timeout: 2.0)
         XCTAssertTrue(viewModel.movies.count == 20)
         XCTAssertTrue(viewModel.movies.first?.originalTitle == "Nightmare Alley")
+        XCTAssertEqual(viewModel.movieCount, 20)
     }
     
     func testFilterMovies() throws {
         // Given
-        resetFakeNetworkManager()
-        fakeNetworkManager.data = try getData(json: "movies")
+        resetMockServiceManager()
+        mockServiceManager.data = try getData(json: "movies")
         let expectation = expectation(description: "waiting for response")
         expectation.expectedFulfillmentCount = 2
         
@@ -74,9 +77,9 @@ class ViewModelTests: XCTestCase {
         XCTAssertTrue(viewModel.movies.first?.originalTitle == "Morbius")
     }
     
-    private func resetFakeNetworkManager() {
-        fakeNetworkManager.data = nil
-        fakeNetworkManager.error = nil
+    private func resetMockServiceManager() {
+        mockServiceManager.data = nil
+        mockServiceManager.error = nil
     }
     
     private func getData(json: String) throws -> Data {
@@ -87,3 +90,4 @@ class ViewModelTests: XCTestCase {
     }
     
 }
+

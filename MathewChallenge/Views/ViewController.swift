@@ -11,7 +11,7 @@ import Combine
 class ViewController: UIViewController {
 
     @IBOutlet private weak var tableView: UITableView!
-    private var viewModel: ViewModel = ViewModel(networkManager: NetworkManager())
+    private var viewModel: ViewModel = ViewModel(serviceManager: ServiceManager())
     private var subscribers = Set<AnyCancellable>()
     
     override func viewDidLoad() {
