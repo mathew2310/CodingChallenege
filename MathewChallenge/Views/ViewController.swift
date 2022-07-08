@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         setUpUI()
         setUpBinding()
     }
-    // function for localization
+    
     private func setUpUI() {
         title = NSLocalizedString("movies_title_key", comment: "")
     }
